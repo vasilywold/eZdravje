@@ -1,0 +1,30 @@
+#people {
+    width: 100%;
+}
+
+#people tr{
+    background-color: rgba(200,235,255,0.5);
+}
+
+#people tr:hover{
+    background-color: rgba(200,235,255,0.8);
+    cursor:pointer;
+}
+
+#graf {
+    height: 400px;
+    width: 100%;
+}
+
+#teze {
+    width: 100%;
+}
+
+#teze tr{
+    background-color: rgba(255,239,180,0.8);
+}
+
+#google_api {
+    width: 100%;
+}
+
